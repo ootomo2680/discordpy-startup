@@ -5,11 +5,10 @@ import random
 import cv2
 import numpy as np
 import re
-import unicodedata
 import pandas as pd
 import codecs as cd
 
-token = "Njg1MTgxMTU3NTc0MzExOTc0.XmE8jQ._u3dNhxVAuxMRPlb2w11IeJaBaA"
+token = "Njg1MTgxMTU3NTc0MzExOTc0.XmE6rg.5Gyfl0WZSsVa8UEw14qmLinQpyg"
 prefix = '$'
 client = discord.Client()
 '''
